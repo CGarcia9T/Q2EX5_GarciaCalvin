@@ -1,0 +1,21 @@
+body {
+	background-color: #06070E;
+	color: #C4CBCA;
+	font-family: times new roman;
+}
+p {
+	text-align: justify;
+}
+img {
+	width: 95%;
+}
+.container {
+	background-color: #29524A;
+	padding: 15px;
+	border-radius: 10px;
+}
+
+.navbar {
+	background-color: #29524A;
+	color: #C4CBCA;
+}
